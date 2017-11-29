@@ -1,0 +1,36 @@
+@media (min-width: 1200px) {
+    [class*="col-"]{
+        width: 100%;
+        
+    }
+    .dos{
+        display: none;
+    }
+    .tres {
+        display: none;
+    }
+}
+@media (min-width: 424px) and (max-width: 835px) {
+    [class*="col-"] {
+        width: 100%;
+    }
+    .uno {
+        display: none;
+    }
+    .tres{
+        display: none;
+    }
+}
+@media (min-width: 00px) and (max-width: 423px) {
+    [class*="col-"] {
+        width: 100%;
+    }
+    .uno{
+        display: none;
+
+    }
+    .dos{
+        display: none;
+    }
+}
+

@@ -1,0 +1,15 @@
+.uno{
+    height: 100vh;
+    background: url("sunny-day.jpg");
+    background-size: cover;
+}
+.dos {
+    height: 100vh;
+    background:  url("dawn.png");
+    background-size: cover;
+}
+.tres{
+    height: 100vh;
+    background: url("night.jpg");
+    background-size: cover;
+}
